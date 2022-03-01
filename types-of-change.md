@@ -8,7 +8,7 @@
 * Leads: Medium Frequency, Medium Impact
 
 * Growth: Medium Frequency to High Frequency, Medium Impact
-* Platform: Low Frequency to Medium Frequency, Low Impact
+* Platform: Medium Frequency, Medium Impact
 * DevX: Low Frequency, Low Impact
 
 ### ZoomTeam, ACM, SlackAnnouncements, Soapbox
@@ -48,7 +48,7 @@
 * Leads: Low Frequency to Medium Frequency, Low Impact
 
 * Growth: Low Frequency to Medium Frequency, Medium Impact
-* Platform: Medium Frequency, Medium Impact
+* Platform: Medium Frequency to High Frequency, Medium Impact
 * DevX: Low Frequency, Low Impact
 
 ### ZoomTeam, SlackMe, SlackTeam, ZoomMe
@@ -84,7 +84,7 @@
 
 ### Low Frequency, Low Impact
 
-* ICs: Low Frequency, Low Impact
+* ICs: Low Frequency to Medium Frequency, Medium Impact
 * Leads: Low Frequency, Low Impact
 
 * Growth: Never to Low Frequency, Medium Impact
@@ -113,7 +113,7 @@
 
 ### AEM, SlackAnnouncements, TopicMeeting, Soapbox
 
-* ICs: AEM, SlackAnnouncements, Soapbox, TopicMeeting
+* ICs: AEM, SlackAnnouncements
 * Leads: AEM, SlackAnnouncements
 
 * Growth: AEM, SlackAnnouncements, Soapbox
@@ -131,13 +131,13 @@
 * Platform: Never to Low Frequency, Low Impact
 * DevX: Never to Low Frequency, Low Impact
 
-### ACM, SlackAnnouncements
+### ACM, SlackAnnouncements, AEM
 
 * ICs: ACM, SlackAnnouncements
 * Leads: ACM, SlackAnnouncements
 
 * Growth: ACM, SlackAnnouncements
-* Platform: ACM, SlackAnnouncements, ZoomMe, AEM, TopicMeeting
+* Platform: ACM, SlackAnnouncements, AEM, ZoomMe, TopicMeeting
 * DevX: SlackAnnouncements, ACM
 
 ## My team members/personnel
@@ -151,13 +151,13 @@
 * Platform: Low Frequency to Medium Frequency, Low Impact
 * DevX: Medium Frequency to High Frequency, High Impact
 
-### SlackTeam, ZoomTeam, SlackMe, ZoomMe
+### ZoomTeam, SlackTeam, SlackMe, ZoomMe
 
-* ICs: SlackTeam, ZoomTeam, SlackMe, ZoomMe
+* ICs: ZoomTeam, SlackTeam, SlackMe, ZoomMe
 * Leads: ZoomTeam, SlackTeam
 
 * Growth: ZoomTeam, SlackTeam
-* Platform: SlackTeam, SlackMe, ZoomTeam, Soapbox, Email
+* Platform: SlackTeam, ZoomTeam, SlackMe, Soapbox, Email
 * DevX: ZoomTeam, SlackTeam
 
 ## Other engineering personnel
@@ -188,7 +188,7 @@
 * Leads: Low Frequency, Low Impact
 
 * Growth: Low Frequency to Medium Frequency, Low Impact
-* Platform: Never to Low Frequency, Low Impact
+* Platform: Low Frequency, Low Impact
 * DevX: Low Frequency to Medium Frequency, Low Impact
 
 ### SlackAnnouncements, ACM, Email
